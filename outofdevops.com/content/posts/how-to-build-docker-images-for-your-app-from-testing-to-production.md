@@ -1,0 +1,14 @@
+---
+title: "how-to-build-docker-images-for-your-app-from-testing-to-production"
+date: 2020-12-26T11:41:11Z
+description: "This is meta description"
+type: "post"
+image: "images/5-things-devops-is-not/cover.jpg"
+categories: 
+  - "devops"
+tags:
+  - "Photos"
+  - "Food"
+---
+
+# How to 
