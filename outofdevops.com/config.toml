@@ -1,6 +1,6 @@
 # default config
 baseurl = "https://outofdevops.com"
-languageCode = "it-IT"
+languageCode = "en-GB"
 title = "OufOfDevOps"
 theme = "parsa-hugo"
 summaryLength = "10"
