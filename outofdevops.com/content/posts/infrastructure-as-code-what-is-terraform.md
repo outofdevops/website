@@ -1,5 +1,5 @@
 ---
-title: "infrastructure-as-code-what-is-terraform"
+title: "Infrastructure as Code (IaC): What is Terraform"
 date: 2021-01-10T11:41:11Z
 description: "This is meta description"
 type: "post"

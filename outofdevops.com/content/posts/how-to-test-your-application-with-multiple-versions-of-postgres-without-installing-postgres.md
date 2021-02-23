@@ -1,5 +1,5 @@
 ---
-title: "how-to-test-your-application-with-multiple-versions-of-postgres-without-installing-postgres"
+title: "How to test your application with multiple versions of Postgres without having to install them"
 date: 2020-10-07T11:41:11Z
 description: "This is meta description"
 type: "post"

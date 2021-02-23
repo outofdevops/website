@@ -1,5 +1,5 @@
 ---
-title: "devops-types-how-to-structure-the-organisation-and-implement-devops"
+title: "DevOps types: how to structure the organisation and implement DevOps"
 date: 2020-07-08T11:41:11Z
 description: "This is meta description"
 type: "post"

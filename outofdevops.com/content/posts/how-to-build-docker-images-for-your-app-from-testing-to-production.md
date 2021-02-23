@@ -1,5 +1,5 @@
 ---
-title: "how-to-build-docker-images-for-your-app-from-testing-to-production"
+title: "How to build Docker images for your app: from testing to production"
 date: 2020-12-26T11:41:11Z
 description: "This is meta description"
 type: "post"
