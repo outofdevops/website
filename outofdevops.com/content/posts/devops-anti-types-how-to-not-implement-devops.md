@@ -3,6 +3,7 @@ title: "DevOps anti-types: how to not implement devops"
 date: 2020-06-28T10:41:11Z
 description: "This is meta description"
 type: "post"
+draft: true
 image: "images/5-things-devops-is-not/cover.jpg"
 categories: 
   - "devops"

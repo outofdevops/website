@@ -3,12 +3,14 @@ title: "How to run containers on GCP"
 date: 2021-01-03T11:41:11Z
 description: "This is meta description"
 type: "post"
-image: "images/5-things-devops-is-not/cover.jpg"
+image: "images/how-to-run-containers-on-gcp/how-to-run-containers-on-gcp.jpg"
 categories: 
   - "devops"
 tags:
-  - "Photos"
-  - "Food"
+  - "GCP"
+  - "CloudRun"
+  - "CloudSQL"
+  - "Artifact Registry"
 ---
 
 # How to run containers on GCP
