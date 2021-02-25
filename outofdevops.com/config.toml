@@ -109,20 +109,20 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-url = "#"
+URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-url = "#"
+URL = "#"
 
 [[params.social]]
 icon = "ti-youtube"
-url = "https://www.youtube.com/channel/UCJFBnZFBlHfuSWdLM4jX9bw/videos"
+URL = "https://www.youtube.com/channel/UCJFBnZFBlHfuSWdLM4jX9bw/videos"
 
 [[params.social]]
 icon = "ti-linkedin"
-url = "https://www.linkedin.com/in/antonio-masucci/"
+URL = "https://www.linkedin.com/in/antonio-masucci/"
 
 [[params.social]]
 icon = "ti-github"
-url = "https://github.com/outofdevops/"
+URL = "https://github.com/outofdevops/"

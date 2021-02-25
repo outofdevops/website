@@ -500,7 +500,7 @@ terraform destroy -var="project_id=$PROJECT_ID" -var="db_password=$DB_PASSWORD" 
 
 Provisioning infrastructure as code it's a cumbersome process at the beginning but once done the flexibility is guaranteed. With this script you can recreate the resources in seconds and you can also reuse the code with multiple applications. To favour code reuse terraform provides even a better feature: terraform modules but I will introduce them in  another post.
 
-For more articles like this follow me on socials: 
+For more articles like this follow me on socials (links down in the footer).
 
 ### References
 
