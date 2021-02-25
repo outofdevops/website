@@ -88,11 +88,11 @@ bio = "OutOfDevOps Tutorials & Videos"
 # Contact info
 #mobile = "+90 000 333 22"
 email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+#address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
-google_analitycs_id = "Your ID"
+google_analitycs_id = "G-W9Y2NMM7XB"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [outofdevops.com](https://outofdevops.com)"
 
@@ -116,8 +116,12 @@ icon = "ti-twitter-alt"
 url = "#"
 
 [[params.social]]
+icon = "ti-youtube"
+url = "https://www.youtube.com/channel/UCJFBnZFBlHfuSWdLM4jX9bw/videos"
+
+[[params.social]]
 icon = "ti-linkedin"
-url = "#"
+url = "https://www.linkedin.com/in/antonio-masucci/"
 
 [[params.social]]
 icon = "ti-github"

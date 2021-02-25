@@ -101,39 +101,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 80px;
+  font-size: 65px;
 }
 
 @media (max-width: 767px) {
   h1, .h1 {
-    font-size: 55px;
-  }
-}
-
-h2, .h2 {
-  font-size: 50px;
-}
-
-@media (max-width: 767px) {
-  h2, .h2 {
     font-size: 45px;
   }
 }
 
-h3, .h3 {
+h2, .h2 {
   font-size: 40px;
 }
 
+@media (max-width: 767px) {
+  h2, .h2 {
+    font-size: 35px;
+  }
+}
+
+h3, .h3 {
+  font-size: 35px;
+}
+
 h4, .h4 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 h5, .h5 {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 h6, .h6 {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 /* Button style */
@@ -295,9 +295,12 @@ body {
   }
 }
 
-ol,
+ol {
+  margin: 0px;
+}
+
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin: 0px;
 }
 

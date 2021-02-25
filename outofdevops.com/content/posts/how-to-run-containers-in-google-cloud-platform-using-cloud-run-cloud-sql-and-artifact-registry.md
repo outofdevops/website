@@ -21,9 +21,9 @@ Today we are going to see how to run docker containers on Google Cloud Platform 
 
 Before we start you need to have the following:
 
-1. Docker installed on your machine (Click here to download and install)
+1. `Docker` installed on your machine (Click here to download and install)
 2. A Google Cloud Platform Account (Click [here](https://gcpsignup.page.link/doL9) to get 350$ for Trials)
-3. Gcloud installed 
+3. `Gcloud` installed 
 
 ## Implementation
 
