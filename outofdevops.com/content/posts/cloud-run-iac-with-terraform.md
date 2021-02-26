@@ -1,6 +1,6 @@
 ---
 title: "Cloud Run and IaC with Terraform"
-date: 2020-12-26T11:41:11Z
+date: 2021-02-03T11:41:11Z
 description: "In this tutorial we are going to use Terraform to run our application on GCP with Cloud Run and Cloud SQL"
 type: "post"
 image: "images/cloud-run-iac-with-terraform/cloud-run-iac-with-terraform.jpg"

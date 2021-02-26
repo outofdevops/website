@@ -13,8 +13,6 @@ tags:
   - "Artifact Registry"
 ---
 
-# How to run containers on GCP
-
 Today we are going to see how to run docker containers on Google Cloud Platform using Cloud Run and Cloud SQL
 
 ## Pre-requisite
