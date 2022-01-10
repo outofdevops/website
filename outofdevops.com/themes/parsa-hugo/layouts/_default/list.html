@@ -25,7 +25,7 @@
             <article class="text-center">
               <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
               <p class="text-uppercase mb-2">{{ .Params.Categories }}</p>
-              <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
+              <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Description}}</a></h4>
               <p>{{ .Summary }}</p>
               <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
             </article>

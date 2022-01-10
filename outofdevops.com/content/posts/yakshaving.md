@@ -5,12 +5,11 @@ description: "What is Yak Shaving? Is it waste of time or a need? What causes it
 type: "post"
 draft: false
 image: "images/yak-shaving-and-iac/cover.jpg"
-categories: 
-  - "DevOps"
+categories:
   - "Software Engineering"
 tags:
   - "devops"
-  - "softwareEngineering"
+  - "software engineering"
 ---
 
 
@@ -56,7 +55,7 @@ You may have to coordinate with:
 It's also very likely that you are not going to nail it at first attempt and you may have to change you code, and for each change 
 you have this very slow feedback loop.
 
-So now you should start to see how this can quickly take much longer than 30 minutes.
+So, now you should start to see how this can quickly take much longer than 30 minutes.
 
 ##### What causes it?
 This is due to complexity of organisation and ways of working... essentially when teams/departments work in silos.
@@ -66,7 +65,7 @@ If each team follows their own protocols for FW rules, IAM, Security, etc..., th
 First of all, with so many teams involved we should minimise what slows down the process. Top offenders here are meeting and 
 people interactions.
 Instead of just focusing on protocols to follow, that are specific for teams we should also focus on creating protocols for tasks.
-For example we could create a protocol for Load Balancers.
+In the example of the Load Balancer, we could create a protocol that is specific for this type of resources.
 
 ##### How do you do this?
 This can be achieved with automation and by following continuous delivery principles. 
@@ -75,5 +74,6 @@ Protocols defined as CD pipelines, can receive as input all the parameters for o
 In this way we can stadardise the process and all the teams involved have to take a much simpler decision 
 (and in some cases they can even define policies as code in the form of steps of the CD pipeline).
 
-So engineer yourself out of the way, comment like and subscribe and see you in the next video.
+##### Conclusions
+As software we should automate repetitive tasks and engineer ourselves out of the way. Let me know what you think by commenting on my video on YouTube: ["Yakshaving in DevOps: Why You Should Avoid it and How"](https://www.youtube.com/watch?v=bwrfp6Id9_4).
 
